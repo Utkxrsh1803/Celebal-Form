@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2&family=Dancing+Script&family=Fira+Sans&family=Great+Vibes&display=swap');
+
+.home {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    margin: auto;
+    flex-direction: column;
+}
+
+p {
+    width: 60%;
+    color: rgb(190, 21, 190);
+    padding: 1px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+
+.button {
+    background-color: rgba(90, 7, 131, 0.689);
+    height: 50px;
+    width: 25%;
+    cursor: pointer;
+    font-size: 20px;
+    border: 1.8px solid black;
+}
